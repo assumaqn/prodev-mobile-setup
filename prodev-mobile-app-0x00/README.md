@@ -1,6 +1,14 @@
+## Reset the Application
+
+To reset the project, run the following command:
+
+````bash
+npm run reset-project
+
+
 # Create Your First Mobile App (Expo Router)
 
-**Repo:** `prodev-mobile-setup`  
+**Repo:** `prodev-mobile-setup`
 **Directory:** `prodev-mobile-app-0x00`
 
 ## Objective
@@ -25,4 +33,4 @@ npx create-expo-app@latest .
 
 # run once to verify
 npx expo start
-```
+````
